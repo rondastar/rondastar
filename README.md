@@ -1,10 +1,20 @@
 ### About Me
-Hi, I'm Ronda! I'm a computer science student at Renton Technical College, planning to transition into backend or full-stack software engineering after over a decade working in international education. 
+Hi, I'm Ronda! I'm a computer science student at Renton Technical College, planning to transition into backend or full-stack software engineering after working in international education for over 10 years. 
 
-### My Goals
-Computer science initially interested me because I have some ideas for apps that I want to better understand the scope of, and I've started working on a basic version of one of them (a recipe converter). Now, the potential to work on projects and technologies that improve the quality of life and health of people and planet is a key motivator for me. Eventually I would love to work on projects that make it easier for people to implement beneficial lifestyle changes, track their own health metrics, improve energy efficiency or sustainability, or build new skills and habits. 
+[![GitHub Streak](https://streak-stats.demolab.com?user=rondastar&theme=radical)](https://git.io/streak-stats)
 
-In the short-term, I plan to continue working on my recipe converter. I would also like to start collaborating with other programmers to learn more about technical project management and code reviews. 
+### Goals
+Concepts
+- Understand technical project management to plan and contribute to personal and collaborative projects.
+- Utilize Big O notation to improve efficiency of projects.
+
+Personal Projects
+- Finish a basic version of a recipe converter app.
+- Collaborate with other developers to experience project management and code review.
+
+Career
+- Complete backend or full-stack internships in a collaborative team with strong mentorship.
+- Contribute to projects and teams that enhance the well-being of people and planet.
 
 ### Technologies and Skills
 Programming languages: 
@@ -31,4 +41,5 @@ Technologies:
 - [Recipe converter (C++)]([url](https://github.com/rondastar/RecipeCalc)https://github.com/rondastar/RecipeCalc)
 - [Portfolio]([url](https://github.com/rondastar/Portfolio)https://github.com/rondastar/Portfolio)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rondastar&theme=radical)](https://git.io/streak-stats)
+### How to Contact Me
+- [LinkedIn]([url](https://www.linkedin.com/in/rondarutherford/)https://www.linkedin.com/in/rondarutherford/)
