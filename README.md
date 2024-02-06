@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### About Me
 Hi, I'm Ronda! I'm a computer science student at Renton Technical College, planning to transition into backend or full-stack software engineering after over a decade working in international education. 
 
