@@ -27,6 +27,6 @@ Technologies:
 - Cisco Packet Tracer
 
 ### Top Projects
-[Recipe converter (C#)]([url](https://github.com/rondastar/RecipeConverter))
-[Recipe converter (C++)]([url](https://github.com/rondastar/RecipeCalc)https://github.com/rondastar/RecipeCalc)
-[Portfolio]([url](https://github.com/rondastar/Portfolio)https://github.com/rondastar/Portfolio)
+- [Recipe converter (C#)]([url](https://github.com/rondastar/RecipeConverter))
+- [Recipe converter (C++)]([url](https://github.com/rondastar/RecipeCalc)https://github.com/rondastar/RecipeCalc)
+- [Portfolio]([url](https://github.com/rondastar/Portfolio)https://github.com/rondastar/Portfolio)
