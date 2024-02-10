@@ -1,5 +1,5 @@
 ### About Me
-Hi, I'm Ronda! I'm a computer science student at Renton Technical College, planning to transition into backend or full-stack software engineering after working in international education for over 10 years. 
+Hi, I'm Ronda! I'm a computer science student at Renton Technical College, planning to transition into backend or full-stack software engineering after working in international education. 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rondastar&theme=radical)](https://git.io/streak-stats)
 
@@ -42,4 +42,4 @@ Tools:
 - [Portfolio]([url](https://github.com/rondastar/Portfolio)https://github.com/rondastar/Portfolio)
 
 ### How to Contact Me
-- [LinkedIn]([url](https://www.linkedin.com/in/rondarutherford/)https://www.linkedin.com/in/rondarutherford/)
+- [LinkedIn: https://www.linkedin.com/in/rondarutherford/]([url](https://www.linkedin.com/in/rondarutherford/)https://www.linkedin.com/in/rondarutherford/)
