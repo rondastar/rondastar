@@ -1,5 +1,5 @@
 ### About Me
-Hi, I'm Ronda! I'm a computer science student at Renton Technical College, planning to transition into backend or full-stack software engineering from international education. 
+Hi, I'm Ronda! I'm a computer science student at Renton Technical College, planning to transition into backend or full-stack software engineering. I previously worked in International Education, mostly on internship and study abroad programs to Germany. During my CS studies, I've been managing a kayak and paddleboard rental during summer and work at a kayak gear shop in the off-season. 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rondastar&theme=radical)](https://git.io/streak-stats)
 
