@@ -36,10 +36,8 @@ Tools:
 - R
 - Cisco Packet Tracer
 
-### Top Projects
-- [Recipe converter - C#]([url](https://github.com/rondastar/RecipeConverter))
-- [Recipe converter - C++]([url](https://github.com/rondastar/RecipeCalc)https://github.com/rondastar/RecipeCalc)
-- [Portfolio]([url](https://github.com/rondastar/Portfolio)https://github.com/rondastar/Portfolio)
+### Interests
+🛶🏃🏻‍♀️🏕️🥾🏋️🪴🧘🏻‍♀️🎤🎶🎸🎻🎭🍳🧳👩🏻‍💻️
 
 ### How to Contact Me
 - [LinkedIn: https://www.linkedin.com/in/rondarutherford/]([url](https://www.linkedin.com/in/rondarutherford/)https://www.linkedin.com/in/rondarutherford/)
